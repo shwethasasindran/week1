@@ -1,4 +1,4 @@
-#sh
+#!/bin/sh
 echo "Hello, what is your name?"
 read name
 echo "Hello $name, I will make a folder for you!"
